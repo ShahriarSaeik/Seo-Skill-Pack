@@ -1,0 +1,22 @@
+# Enterprise SEO: Playbook Index (18 playbooks)
+
+Every playbook follows the same structure: TL;DR → framework → checklist → data points → mistakes → principles.
+
+- [8 SEO Data API Use Cases For Agencies and Enterprises](articles/8-seo-data-api-use-cases.md)
+- [How to Build a Brand Awareness Dashboard](articles/brand-awareness-dashboard.md)
+- [Enterprise Content Marketing Strategy To Drive Growth](articles/enterprise-content-marketing.md)
+- [Enterprise Link Building & The Power Of Links](articles/enterprise-link-building.md)
+- [Unlocking Growth Through Enterprise SaaS SEO](articles/enterprise-saas-seo.md)
+- [What is an Enterprise SEO Audit & How To Do One](articles/enterprise-seo-audit.md)
+- [Enterprise SEO Challenges & Mistakes You Need To Overcome](articles/enterprise-seo-challenges.md)
+- [Enterprise SEO Storytelling: Metrics, Reports, & Dashboards](articles/enterprise-seo-metrics-reporting.md)
+- [Enterprise SEO Platform Buying Guide](articles/enterprise-seo-platform-buying-guide.md)
+- [Enterprise SEO Strategies For Maximum Growth](articles/enterprise-seo.md)
+- [Enterprise Sites Are Where Technical SEO Shines](articles/enterprise-technical-seo.md)
+- [The Realities of In-House SEO: What to Expect and How to Succeed](articles/in-house-seo.md)
+- [The Role of SEO in Mergers and Acquisitions](articles/seo-for-mergers-acquisitions.md)
+- [SEO Forecasting Model: Traffic → Conversions → Revenue (Spreadsheet Method)](articles/seo-forecasting-model.md)
+- [SEO Forecasting: The Art Of Getting Buy-In](articles/seo-forecasting.md)
+- [SEO OKRs: Driving Performance & Measuring Impact](articles/seo-okrs.md)
+- [SEO Reporting for Agencies (With Real Report Examples)](articles/seo-reporting-for-agencies.md)
+- [How to Level-up From SEO Tactician to Search Visibility Leader](articles/seo-tactician-to-strategist.md)

@@ -1,0 +1,14 @@
+# Local Python artifacts
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Operating system / editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

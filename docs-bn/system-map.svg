@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-label="SEO Skills Pack: প্রশ্ন থেকে কাজের ফলাফল পর্যন্ত" font-family="Hind Siliguri, Noto Sans Bengali, Nirmala UI, sans-serif" font-size="13">
+  <rect width="760" height="560" rx="14" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#6b7280"/></marker>
+  </defs>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0f6b5c">প্রশ্ন থেকে কাজের ফলাফল: ৪ ধাপ</text>
+  <text x="24" y="56" font-size="12" fill="#5b6475">AI নিজেই সঠিক skill আর প্লেবুক বেছে নেয়। আপনাকে শুধু নিজের সমস্যাটা পরিষ্কার করে বলতে হবে।</text>
+
+  <!-- 1 user -->
+  <rect x="24" y="76" width="712" height="54" rx="10" fill="#f1efe8" stroke="#c9c5ba"/>
+  <text x="44" y="100" font-size="14" font-weight="700" fill="#1d2330">১. আপনার প্রশ্ন</text>
+  <text x="44" y="120" font-size="12.5" fill="#1d2330">বাংলা, Banglish বা ইংরেজি · নতুন থেকে অভিজ্ঞ · সাথে চাইলে ফাইল, স্ক্রিনশট বা Search Console ডেটা</text>
+  <path d="M380 130V152" stroke="#6b7280" stroke-width="1.4" marker-end="url(#a)"/>
+
+  <!-- 2 router -->
+  <rect x="24" y="156" width="712" height="74" rx="10" fill="#e3f1ee" stroke="#0f6b5c" stroke-width="2"/>
+  <text x="44" y="181" font-size="14" font-weight="700" fill="#1d2330">২. seo-router (রিসেপশনিস্ট)</text>
+  <text x="44" y="201" font-size="12.5" fill="#1d2330">ভাষা ঠিক করে → লেভেল বোঝে (Beginner / Intermediate / Advanced) → সঠিক skill বেছে নেয়</text>
+  <text x="44" y="219" font-size="12.5" fill="#1d2330">বড় কাজ হলে ৭টা workflow-এর একটা চালায়: নতুন সাইট · অডিট · ট্রাফিক ড্রপ · ব্লগ পোস্ট · AI visibility · লোকাল · এন্টারপ্রাইজ</text>
+  <path d="M380 230V252" stroke="#6b7280" stroke-width="1.4" marker-end="url(#a)"/>
+
+  <!-- 3 skills -->
+  <rect x="24" y="256" width="712" height="168" rx="10" fill="none" stroke="#c9c5ba"/>
+  <text x="44" y="280" font-size="14" font-weight="700" fill="#1d2330">৩. বিশেষজ্ঞ skill (প্রতিটায় শেখার পথ + দ্রুত প্লেবুক টেবিল)</text>
+  <g font-size="12.5" fill="#1d2330">
+    <rect x="44" y="292" width="160" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="56" y="315" font-weight="700">seo-fundamentals</text><text x="56" y="335" fill="#5b6475">স্ট্র্যাটেজি · অডিট · schema</text>
+    <rect x="216" y="292" width="160" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="228" y="315" font-weight="700">keyword-research</text><text x="228" y="335" fill="#5b6475">কী নিয়ে লিখবেন</text>
+    <rect x="388" y="292" width="160" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="400" y="315" font-weight="700">on-page-seo</text><text x="400" y="335" fill="#5b6475">title · meta · পেজ</text>
+    <rect x="560" y="292" width="160" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="572" y="315" font-weight="700">technical-seo</text><text x="572" y="335" fill="#5b6475">index · speed · migration</text>
+    <rect x="44" y="358" width="128" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="54" y="381" font-weight="700">link-building</text><text x="54" y="401" fill="#5b6475">backlink</text>
+    <rect x="180" y="358" width="128" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="190" y="381" font-weight="700">content-marketing</text><text x="190" y="401" fill="#5b6475">কনটেন্ট প্ল্যান</text>
+    <rect x="316" y="358" width="128" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="326" y="381" font-weight="700">local-seo</text><text x="326" y="401" fill="#5b6475">Google Maps</text>
+    <rect x="452" y="358" width="128" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="462" y="381" font-weight="700">ai-search</text><text x="462" y="401" fill="#5b6475">ChatGPT · AIO</text>
+    <rect x="588" y="358" width="132" height="56" rx="8" fill="#ffffff" stroke="#c9c5ba"/><text x="598" y="381" font-weight="700">enterprise-seo</text><text x="598" y="401" fill="#5b6475">বড় সাইট · রিপোর্ট</text>
+  </g>
+  <path d="M380 424V446" stroke="#6b7280" stroke-width="1.4" marker-end="url(#a)"/>
+
+  <!-- 4 playbooks + tool -->
+  <rect x="24" y="450" width="452" height="86" rx="10" fill="#ffffff" stroke="#c9c5ba"/>
+  <text x="44" y="474" font-size="14" font-weight="700" fill="#1d2330">৪. প্লেবুক থেকে কাজের ফলাফল</text>
+  <text x="44" y="494" font-size="12.5" fill="#1d2330">৫১৪টা প্লেবুকের ১–৩টা পড়ে আপনার সাইটে প্রয়োগ করে দেয়:</text>
+  <text x="44" y="514" font-size="12.5" fill="#1d2330">অ্যাকশন প্ল্যান · চেকলিস্ট · title/meta · JSON-LD · ইমেইল · রিপোর্ট</text>
+  <rect x="488" y="450" width="248" height="86" rx="10" fill="#fff6e0" stroke="#e8c66a" stroke-width="1.5"/>
+  <text x="504" y="474" font-size="14" font-weight="700" fill="#1d2330">traffic-drop-doctor 🩺</text>
+  <text x="504" y="494" font-size="12.5" fill="#1d2330">Search Console ডেটা বিশ্লেষণ করে</text>
+  <text x="504" y="514" font-size="12.5" fill="#1d2330">ট্রাফিক কমার কারণ + ক্লায়েন্ট রিপোর্ট</text>
+</svg>

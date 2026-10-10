@@ -1,0 +1,204 @@
+key,click_change,clicks_before,clicks_after,impr_before,impr_after,pos_before,pos_after,ctr_before,ctr_after,pattern
+top rated cooler,-348.0,580.0,232.0,8209.0,5701.0,3.9,8.0,7.07,4.07,ranking_loss
+best gps watch,-339.0,572.0,233.0,9007.0,6517.0,4.6,8.7,6.35,3.58,ranking_loss
+best headlamp 2026,-307.0,505.0,198.0,6197.0,4355.0,4.6,8.6,8.15,4.55,ranking_loss
+top rated trekking poles,-295.0,499.0,204.0,7478.0,5311.0,4.7,8.8,6.67,3.84,ranking_loss
+best gps watch 2026,-291.0,490.0,199.0,7707.0,5576.0,3.7,7.8,6.36,3.57,ranking_loss
+best cooler,-271.0,452.0,181.0,6398.0,4443.0,3.6,7.7,7.06,4.07,ranking_loss
+trail runners sale,-261.0,290.0,29.0,3090.0,314.0,3.7,3.6,9.39,9.24,demand_loss
+trekking poles reviews,-257.0,434.0,177.0,6503.0,4618.0,4.4,8.5,6.67,3.83,ranking_loss
+tent deals,-253.0,284.0,31.0,3157.0,334.0,5.5,5.5,9.0,9.28,demand_loss
+best hammock,-252.0,422.0,170.0,5029.0,3573.0,3.6,7.6,8.39,4.76,ranking_loss
+trail runners reviews,-250.0,420.0,170.0,4587.0,3270.0,4.7,8.7,9.16,5.2,ranking_loss
+best camping stove 2026,-247.0,416.0,169.0,5340.0,3787.0,3.9,7.9,7.79,4.46,ranking_loss
+best trail runners,-247.0,415.0,168.0,4534.0,3233.0,5.0,9.0,9.15,5.2,ranking_loss
+top rated headlamp,-239.0,394.0,155.0,4839.0,3400.0,5.6,9.7,8.14,4.56,ranking_loss
+best hammock 2026,-231.0,387.0,156.0,4608.0,3274.0,4.2,8.2,8.4,4.76,ranking_loss
+best trekking poles 2026,-228.0,385.0,157.0,5779.0,4104.0,5.0,9.1,6.66,3.83,ranking_loss
+base layer reviews,-226.0,372.0,146.0,6016.0,4127.0,4.5,8.6,6.18,3.54,ranking_loss
+best sleeping bag,-221.0,377.0,156.0,4439.0,3176.0,5.6,9.5,8.49,4.91,ranking_loss
+top rated trail runners,-218.0,366.0,148.0,3997.0,2850.0,4.8,8.9,9.16,5.19,ranking_loss
+top rated base layer,-217.0,357.0,140.0,5761.0,3952.0,4.5,8.6,6.2,3.54,ranking_loss
+best cooler 2026,-214.0,357.0,143.0,5054.0,3510.0,4.5,8.5,7.06,4.07,ranking_loss
+backpack deals,-213.0,235.0,22.0,2227.0,224.0,6.3,6.3,10.55,9.82,demand_loss
+camping stove reviews,-212.0,357.0,145.0,4578.0,3247.0,4.4,8.5,7.8,4.47,ranking_loss
+sleeping bag deals,-205.0,231.0,26.0,3206.0,345.0,5.6,5.6,7.21,7.54,demand_loss
+top rated camping stove,-204.0,343.0,139.0,4401.0,3121.0,3.6,7.7,7.79,4.45,ranking_loss
+best base layer,-201.0,331.0,130.0,5341.0,3664.0,4.7,8.8,6.2,3.55,ranking_loss
+top rated tent,-200.0,338.0,138.0,5306.0,3871.0,3.6,7.8,6.37,3.56,ranking_loss
+cheap backpack,-199.0,220.0,21.0,2085.0,210.0,6.2,6.1,10.55,10.0,demand_loss
+best base layer 2026,-196.0,322.0,126.0,5197.0,3566.0,4.8,8.9,6.2,3.53,ranking_loss
+how to choose base layer,-193.0,422.0,229.0,5568.0,5171.0,4.3,4.4,7.58,4.43,ctr_loss
+hiking boots sale,-189.0,210.0,21.0,2255.0,236.0,6.4,6.4,9.31,8.9,demand_loss
+rain jacket sale,-189.0,213.0,24.0,2938.0,314.0,3.5,3.5,7.25,7.64,demand_loss
+top rated gps watch,-183.0,308.0,125.0,4846.0,3507.0,4.2,8.3,6.36,3.56,ranking_loss
+best bear canister,-183.0,306.0,123.0,5062.0,3611.0,3.9,8.0,6.05,3.41,ranking_loss
+best tent,-181.0,307.0,126.0,4827.0,3522.0,3.0,7.1,6.36,3.58,ranking_loss
+top rated down jacket,-181.0,296.0,115.0,3844.0,2696.0,4.6,8.7,7.7,4.27,ranking_loss
+top rated hammock,-180.0,301.0,121.0,3579.0,2543.0,4.5,8.5,8.41,4.76,ranking_loss
+down jacket reviews,-176.0,289.0,113.0,3758.0,2635.0,5.2,9.2,7.69,4.29,ranking_loss
+trekking poles deals,-175.0,194.0,19.0,2243.0,221.0,3.5,3.6,8.65,8.6,demand_loss
+trail runners deals,-164.0,182.0,18.0,1942.0,198.0,3.9,3.8,9.37,9.09,demand_loss
+best sleeping pad,-161.0,269.0,108.0,3991.0,2809.0,3.3,7.3,6.74,3.84,ranking_loss
+sleeping bag sale,-159.0,179.0,20.0,2489.0,268.0,6.7,6.6,7.19,7.46,demand_loss
+hiking boots reviews,-158.0,270.0,112.0,3363.0,2395.0,3.8,7.9,8.03,4.68,ranking_loss
+best tent 2026,-154.0,261.0,107.0,4106.0,2996.0,3.0,7.1,6.36,3.57,ranking_loss
+rain jacket deals,-154.0,173.0,19.0,2392.0,256.0,3.4,3.4,7.23,7.42,demand_loss
+how to clean headlamp,-153.0,347.0,194.0,5113.0,4889.0,3.1,3.3,6.79,3.97,ctr_loss
+cheap trail runners,-153.0,170.0,17.0,1810.0,184.0,4.5,4.3,9.39,9.24,demand_loss
+top rated camp chair,-151.0,256.0,105.0,4044.0,2941.0,4.4,8.5,6.33,3.57,ranking_loss
+best bear canister 2026,-150.0,252.0,102.0,4170.0,2975.0,4.5,8.5,6.04,3.43,ranking_loss
+gps watch reviews,-149.0,252.0,103.0,3971.0,2873.0,4.0,8.1,6.35,3.59,ranking_loss
+water filter buying guide,-148.0,336.0,188.0,6314.0,6013.0,4.6,4.8,5.32,3.13,ctr_loss
+tent sale,-148.0,166.0,18.0,1841.0,195.0,5.0,5.0,9.02,9.23,demand_loss
+how to clean water filter,-147.0,333.0,186.0,6249.0,5951.0,5.4,5.6,5.33,3.13,ctr_loss
+how to choose backpack,-145.0,316.0,171.0,5447.0,5075.0,4.6,4.8,5.8,3.37,ctr_loss
+best down jacket 2026,-145.0,238.0,93.0,3100.0,2174.0,5.2,9.2,7.68,4.28,ranking_loss
+best trekking poles,-144.0,243.0,99.0,3640.0,2585.0,4.8,8.9,6.68,3.83,ranking_loss
+rain jacket buying guide,-144.0,322.0,178.0,5692.0,5348.0,3.6,3.8,5.66,3.33,ctr_loss
+best water filter 2026,-144.0,241.0,97.0,3158.0,2236.0,5.4,9.4,7.63,4.34,ranking_loss
+hammock buying guide,-144.0,312.0,168.0,5721.0,5229.0,5.0,5.1,5.45,3.21,ctr_loss
+camping stove sale,-144.0,160.0,16.0,2102.0,206.0,4.0,4.0,7.61,7.77,demand_loss
+how to clean hammock,-143.0,310.0,167.0,5689.0,5200.0,4.0,4.2,5.45,3.21,ctr_loss
+how to choose a down jacket for beginners,-143.0,312.0,169.0,4010.0,3742.0,4.8,4.9,7.78,4.52,ctr_loss
+backpack sale,-143.0,158.0,15.0,1498.0,151.0,5.9,5.9,10.55,9.93,demand_loss
+top rated sleeping pad,-142.0,238.0,96.0,3536.0,2488.0,3.4,7.4,6.73,3.86,ranking_loss
+top rated rain jacket,-141.0,239.0,98.0,3885.0,2729.0,3.2,7.2,6.15,3.59,ranking_loss
+hammock sale,-140.0,156.0,16.0,1857.0,194.0,4.5,4.6,8.4,8.25,demand_loss
+cooler reviews,-139.0,231.0,92.0,3264.0,2266.0,4.3,8.4,7.08,4.06,ranking_loss
+how to clean cooler,-136.0,299.0,163.0,3969.0,3766.0,4.3,4.4,7.53,4.33,ctr_loss
+best backpack,-134.0,226.0,92.0,2411.0,1701.0,4.3,8.4,9.37,5.41,ranking_loss
+what hammock do i need,-134.0,290.0,156.0,5319.0,4862.0,4.5,4.7,5.45,3.21,ctr_loss
+headlamp reviews,-133.0,219.0,86.0,2688.0,1889.0,5.1,9.2,8.15,4.55,ranking_loss
+how to clean backpack,-132.0,287.0,155.0,4941.0,4603.0,5.4,5.6,5.81,3.37,ctr_loss
+how to clean down jacket,-130.0,286.0,156.0,3682.0,3437.0,4.4,4.5,7.77,4.54,ctr_loss
+cheap rain jacket,-130.0,146.0,16.0,2022.0,216.0,3.9,3.9,7.22,7.41,demand_loss
+hammock reviews,-129.0,216.0,87.0,2567.0,1824.0,4.4,8.4,8.41,4.77,ranking_loss
+water filter reviews,-128.0,215.0,87.0,2822.0,1998.0,5.2,9.3,7.62,4.35,ranking_loss
+top rated sleeping bag,-126.0,215.0,89.0,2538.0,1815.0,5.9,9.9,8.47,4.9,ranking_loss
+what camping stove do i need,-126.0,277.0,151.0,4739.0,4412.0,3.4,3.6,5.85,3.42,ctr_loss
+best trail runners 2026,-126.0,211.0,85.0,2301.0,1641.0,4.9,9.0,9.17,5.18,ranking_loss
+camping stove buying guide,-125.0,275.0,150.0,4692.0,4369.0,3.7,3.9,5.86,3.43,ctr_loss
+how to clean camping stove,-125.0,275.0,150.0,4697.0,4374.0,3.5,3.7,5.85,3.43,ctr_loss
+tent reviews,-122.0,207.0,85.0,3259.0,2378.0,3.2,7.3,6.35,3.57,ranking_loss
+how to choose headlamp,-122.0,277.0,155.0,4082.0,3904.0,3.4,3.6,6.79,3.97,ctr_loss
+how to choose a hammock for beginners,-120.0,259.0,139.0,4740.0,4332.0,4.2,4.4,5.46,3.21,ctr_loss
+cheap sleeping bag,-118.0,133.0,15.0,1847.0,199.0,6.6,6.6,7.2,7.54,demand_loss
+hammock deals,-118.0,131.0,13.0,1555.0,163.0,5.1,5.2,8.42,7.98,demand_loss
+what rain jacket do i need,-117.0,261.0,144.0,4606.0,4328.0,4.6,4.7,5.67,3.33,ctr_loss
+how to choose down jacket,-117.0,257.0,140.0,3306.0,3085.0,4.4,4.5,7.77,4.54,ctr_loss
+cheap trekking poles,-117.0,130.0,13.0,1500.0,148.0,3.9,4.0,8.67,8.78,demand_loss
+best backpack 2026,-115.0,194.0,79.0,2073.0,1462.0,3.5,7.6,9.36,5.4,ranking_loss
+top rated bear canister,-115.0,192.0,77.0,3172.0,2263.0,4.1,8.1,6.05,3.4,ranking_loss
+best camping stove,-113.0,190.0,77.0,2434.0,1726.0,4.3,8.3,7.81,4.46,ranking_loss
+how to choose a base layer for beginners,-113.0,248.0,135.0,3270.0,3037.0,3.6,3.7,7.58,4.45,ctr_loss
+cheap water filter,-113.0,126.0,13.0,1499.0,155.0,3.3,3.3,8.41,8.39,demand_loss
+headlamp buying guide,-112.0,255.0,143.0,3764.0,3599.0,3.2,3.4,6.77,3.97,ctr_loss
+best sleeping pad 2026,-112.0,188.0,76.0,2792.0,1965.0,3.1,7.2,6.73,3.87,ranking_loss
+cheap headlamp,-112.0,124.0,12.0,1769.0,181.0,4.6,4.5,7.01,6.63,demand_loss
+rain jacket reviews,-111.0,188.0,77.0,3050.0,2142.0,4.2,8.2,6.16,3.59,ranking_loss
+best water filter,-111.0,185.0,74.0,2420.0,1713.0,4.9,8.9,7.64,4.32,ranking_loss
+cooler buying guide,-111.0,242.0,131.0,3208.0,3044.0,4.7,4.9,7.54,4.3,ctr_loss
+cheap hiking boots,-111.0,123.0,12.0,1325.0,139.0,6.3,6.4,9.28,8.63,demand_loss
+top rated hiking boots,-110.0,189.0,79.0,2362.0,1683.0,4.5,8.5,8.0,4.69,ranking_loss
+best headlamp,-110.0,182.0,72.0,2240.0,1574.0,5.6,9.7,8.12,4.57,ranking_loss
+how to choose hammock,-110.0,238.0,128.0,4370.0,3994.0,4.6,4.8,5.45,3.2,ctr_loss
+how to clean base layer,-109.0,237.0,128.0,3117.0,2895.0,3.7,3.8,7.6,4.42,ctr_loss
+how to clean sleeping pad,-107.0,240.0,133.0,3248.0,3069.0,5.3,5.5,7.39,4.33,ctr_loss
+bear canister reviews,-107.0,179.0,72.0,2957.0,2110.0,4.4,8.4,6.05,3.41,ranking_loss
+how to choose hiking boots,-103.0,221.0,118.0,4552.0,4135.0,3.8,4.0,4.86,2.85,ctr_loss
+how to choose rain jacket,-103.0,229.0,126.0,4039.0,3795.0,4.4,4.6,5.67,3.32,ctr_loss
+base layer buying guide,-103.0,225.0,122.0,2971.0,2759.0,3.6,3.7,7.57,4.42,ctr_loss
+best camp chair,-103.0,174.0,71.0,2743.0,1995.0,5.3,9.5,6.34,3.56,ranking_loss
+trekking poles sale,-103.0,114.0,11.0,1323.0,131.0,4.3,4.5,8.62,8.4,demand_loss
+base layer deals,-103.0,115.0,12.0,1118.0,115.0,6.5,6.3,10.29,10.43,demand_loss
+sleeping bag buying guide,-102.0,226.0,124.0,3121.0,2961.0,3.5,3.7,7.24,4.19,ctr_loss
+what headlamp do i need,-102.0,230.0,128.0,3386.0,3238.0,3.1,3.3,6.79,3.95,ctr_loss
+cheap base layer,-102.0,114.0,12.0,1106.0,114.0,7.0,6.9,10.31,10.53,demand_loss
+top rated backpack,-101.0,170.0,69.0,1815.0,1281.0,3.4,7.5,9.37,5.39,ranking_loss
+what water filter do i need,-101.0,230.0,129.0,4310.0,4104.0,4.6,4.8,5.34,3.14,ctr_loss
+best camp chair 2026,-101.0,171.0,70.0,2698.0,1962.0,4.4,8.6,6.34,3.57,ranking_loss
+what base layer do i need,-100.0,218.0,118.0,2871.0,2666.0,4.0,4.1,7.59,4.43,ctr_loss
+best down jacket,-97.0,159.0,62.0,2063.0,1447.0,4.2,8.2,7.71,4.28,ranking_loss
+headlamp deals,-97.0,107.0,10.0,1519.0,155.0,4.3,4.2,7.04,6.45,demand_loss
+camp chair reviews,-96.0,163.0,67.0,2569.0,1868.0,5.0,9.1,6.34,3.59,ranking_loss
+cheap tent,-96.0,108.0,12.0,1194.0,126.0,5.1,5.1,9.05,9.52,demand_loss
+water filter sale,-96.0,107.0,11.0,1274.0,132.0,4.2,4.2,8.4,8.33,demand_loss
+how to choose cooler,-93.0,205.0,112.0,2725.0,2586.0,4.2,4.4,7.52,4.33,ctr_loss
+how to choose a hiking boots for beginners,-91.0,195.0,104.0,4025.0,3656.0,3.8,4.0,4.84,2.84,ctr_loss
+how to choose a sleeping bag for beginners,-89.0,196.0,107.0,2706.0,2567.0,3.1,3.3,7.24,4.17,ctr_loss
+what backpack do i need,-88.0,192.0,104.0,3313.0,3087.0,4.9,5.1,5.8,3.37,ctr_loss
+camping stove deals,-87.0,97.0,10.0,1278.0,125.0,4.8,4.7,7.59,8.0,demand_loss
+best sleeping bag 2026,-86.0,146.0,60.0,1725.0,1234.0,5.1,9.0,8.46,4.86,ranking_loss
+how to choose a sleeping pad for beginners,-86.0,194.0,108.0,2632.0,2488.0,5.4,5.6,7.37,4.34,ctr_loss
+sleeping bag reviews,-84.0,143.0,59.0,1683.0,1204.0,5.2,9.1,8.5,4.9,ranking_loss
+what down jacket do i need,-84.0,184.0,100.0,2360.0,2203.0,4.4,4.5,7.8,4.54,ctr_loss
+cheap camping stove,-84.0,93.0,9.0,1225.0,120.0,5.0,5.0,7.59,7.5,demand_loss
+how to choose sleeping bag,-83.0,183.0,100.0,2525.0,2395.0,3.7,3.8,7.25,4.18,ctr_loss
+best hiking boots,-81.0,138.0,57.0,1721.0,1226.0,4.5,8.5,8.02,4.65,ranking_loss
+best rain jacket 2026,-81.0,137.0,56.0,2230.0,1567.0,4.0,8.0,6.14,3.57,ranking_loss
+how to choose a camping stove for beginners,-80.0,175.0,95.0,2995.0,2789.0,3.0,3.2,5.84,3.41,ctr_loss
+how to choose camping stove,-77.0,170.0,93.0,2906.0,2706.0,3.5,3.7,5.85,3.44,ctr_loss
+how to choose a headlamp for beginners,-77.0,174.0,97.0,2570.0,2458.0,3.1,3.4,6.77,3.95,ctr_loss
+hiking boots deals,-77.0,86.0,9.0,921.0,96.0,6.1,6.2,9.34,9.38,demand_loss
+how to clean sleeping bag,-76.0,167.0,91.0,2301.0,2183.0,3.1,3.2,7.26,4.17,ctr_loss
+best rain jacket,-76.0,129.0,53.0,2096.0,1473.0,4.0,8.0,6.15,3.6,ranking_loss
+how to choose a water filter for beginners,-76.0,174.0,98.0,3273.0,3116.0,4.6,4.8,5.32,3.15,ctr_loss
+what cooler do i need,-76.0,167.0,91.0,2210.0,2097.0,4.4,4.5,7.56,4.34,ctr_loss
+sleeping pad reviews,-75.0,126.0,51.0,1867.0,1314.0,3.0,7.1,6.75,3.88,ranking_loss
+what camp chair do i need,-74.0,156.0,82.0,2608.0,2383.0,3.1,3.3,5.98,3.44,ctr_loss
+how to clean rain jacket,-72.0,161.0,89.0,2852.0,2680.0,4.1,4.3,5.65,3.32,ctr_loss
+how to choose gps watch,-72.0,160.0,88.0,3033.0,2901.0,3.5,3.7,5.28,3.03,ctr_loss
+base layer sale,-71.0,79.0,8.0,767.0,79.0,6.3,6.1,10.3,10.13,demand_loss
+how to choose a backpack for beginners,-70.0,153.0,83.0,2637.0,2456.0,4.5,4.7,5.8,3.38,ctr_loss
+what bear canister do i need,-70.0,153.0,83.0,2515.0,2343.0,4.1,4.3,6.08,3.54,ctr_loss
+cheap hammock,-70.0,78.0,8.0,934.0,98.0,5.2,5.2,8.35,8.16,demand_loss
+top rated water filter,-69.0,115.0,46.0,1501.0,1062.0,4.5,8.6,7.66,4.33,ranking_loss
+what hiking boots do i need,-67.0,143.0,76.0,2943.0,2674.0,3.8,4.0,4.86,2.84,ctr_loss
+how to clean hiking boots,-67.0,145.0,78.0,3000.0,2725.0,3.9,4.1,4.83,2.86,ctr_loss
+how to choose sleeping pad,-67.0,152.0,85.0,2064.0,1951.0,5.3,5.5,7.36,4.36,ctr_loss
+how to choose a rain jacket for beginners,-66.0,148.0,82.0,2617.0,2459.0,4.6,4.7,5.66,3.33,ctr_loss
+how to choose trail runners,-66.0,144.0,78.0,2373.0,2205.0,2.8,2.9,6.07,3.54,ctr_loss
+how to choose bear canister,-66.0,145.0,79.0,2384.0,2221.0,4.6,4.9,6.08,3.56,ctr_loss
+how to choose a trekking poles for beginners,-65.0,152.0,87.0,3213.0,3109.0,3.2,3.3,4.73,2.8,ctr_loss
+best hiking boots 2026,-63.0,108.0,45.0,1341.0,955.0,4.5,8.6,8.05,4.71,ranking_loss
+how to choose a gps watch for beginners,-63.0,142.0,79.0,2702.0,2584.0,3.7,3.9,5.26,3.06,ctr_loss
+how to clean bear canister,-63.0,139.0,76.0,2297.0,2140.0,4.7,5.0,6.05,3.55,ctr_loss
+how to choose a bear canister for beginners,-62.0,136.0,74.0,2244.0,2091.0,4.4,4.7,6.06,3.54,ctr_loss
+tent buying guide,-60.0,137.0,77.0,2225.0,2140.0,2.7,3.0,6.16,3.6,ctr_loss
+how to choose a trail runners for beginners,-60.0,132.0,72.0,2168.0,2015.0,3.4,3.6,6.09,3.57,ctr_loss
+how to choose a cooler for beginners,-60.0,130.0,70.0,1720.0,1632.0,4.3,4.5,7.56,4.29,ctr_loss
+how to choose a tent for beginners,-59.0,135.0,76.0,2196.0,2111.0,2.8,3.1,6.15,3.6,ctr_loss
+what sleeping bag do i need,-59.0,130.0,71.0,1798.0,1706.0,3.0,3.1,7.23,4.16,ctr_loss
+how to choose water filter,-59.0,135.0,76.0,2539.0,2417.0,5.4,5.5,5.32,3.14,ctr_loss
+what sleeping pad do i need,-58.0,130.0,72.0,1762.0,1665.0,5.5,5.7,7.38,4.32,ctr_loss
+bear canister buying guide,-58.0,129.0,71.0,2131.0,1985.0,4.4,4.7,6.05,3.58,ctr_loss
+trail runners buying guide,-56.0,123.0,67.0,2019.0,1877.0,3.1,3.2,6.09,3.57,ctr_loss
+water filter deals,-56.0,62.0,6.0,741.0,77.0,3.2,3.2,8.37,7.79,demand_loss
+backpack buying guide,-55.0,119.0,64.0,2053.0,1913.0,5.0,5.2,5.8,3.35,ctr_loss
+how to choose trekking poles,-55.0,128.0,73.0,2705.0,2617.0,4.1,4.3,4.73,2.79,ctr_loss
+what trail runners do i need,-55.0,120.0,65.0,1972.0,1833.0,3.1,3.2,6.09,3.55,ctr_loss
+backpack reviews,-53.0,90.0,37.0,960.0,677.0,3.3,7.4,9.38,5.47,ranking_loss
+down jacket buying guide,-52.0,113.0,61.0,1455.0,1358.0,4.5,4.6,7.77,4.49,ctr_loss
+how to clean gps watch,-52.0,116.0,64.0,2204.0,2108.0,4.2,4.4,5.26,3.04,ctr_loss
+camp chair buying guide,-51.0,108.0,57.0,1814.0,1658.0,3.2,3.4,5.95,3.44,ctr_loss
+sleeping pad buying guide,-49.0,109.0,60.0,1475.0,1394.0,4.7,4.9,7.39,4.3,ctr_loss
+trailpeak,-49.0,1247.0,1198.0,3003.0,2841.0,1.1,1.1,41.53,42.17,mixed
+hiking boots buying guide,-48.0,103.0,55.0,2125.0,1930.0,4.0,4.2,4.85,2.85,ctr_loss
+trailpeak outdoors,-48.0,1246.0,1198.0,3002.0,2840.0,1.1,1.1,41.51,42.18,mixed
+trekking poles buying guide,-47.0,110.0,63.0,2323.0,2248.0,3.7,3.9,4.74,2.8,ctr_loss
+what trekking poles do i need,-46.0,107.0,61.0,2259.0,2186.0,3.0,3.2,4.74,2.79,ctr_loss
+how to clean trail runners,-46.0,101.0,55.0,1666.0,1549.0,3.3,3.4,6.06,3.55,ctr_loss
+headlamp sale,-45.0,50.0,5.0,714.0,73.0,3.6,3.5,7.0,6.85,demand_loss
+what gps watch do i need,-44.0,97.0,53.0,1837.0,1757.0,3.2,3.4,5.28,3.02,ctr_loss
+how to clean trekking poles,-43.0,99.0,56.0,2090.0,2022.0,3.5,3.6,4.74,2.77,ctr_loss
+how to clean tent,-40.0,92.0,52.0,1503.0,1445.0,2.9,3.2,6.12,3.6,ctr_loss
+how to clean camp chair,-38.0,80.0,42.0,1330.0,1215.0,3.4,3.6,6.02,3.46,ctr_loss
+trailpeak gear,-38.0,982.0,944.0,2366.0,2238.0,1.1,1.1,41.5,42.18,mixed
+what tent do i need,-35.0,81.0,46.0,1325.0,1274.0,3.0,3.2,6.11,3.61,ctr_loss
+how to choose a camp chair for beginners,-35.0,74.0,39.0,1230.0,1124.0,3.6,3.9,6.02,3.47,ctr_loss
+gps watch buying guide,-35.0,77.0,42.0,1454.0,1391.0,4.1,4.3,5.3,3.02,ctr_loss
+how to choose camp chair,-31.0,65.0,34.0,1083.0,990.0,3.6,3.8,6.0,3.43,ctr_loss
+how to choose tent,-28.0,63.0,35.0,1022.0,982.0,2.9,3.1,6.16,3.56,ctr_loss
+trailpeak reviews,-13.0,191.0,178.0,638.0,599.0,1.3,1.3,29.94,29.72,mixed
+trailpeak about,-8.0,117.0,109.0,391.0,367.0,1.3,1.3,29.92,29.7,mixed

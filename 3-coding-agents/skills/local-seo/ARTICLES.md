@@ -1,0 +1,20 @@
+# Local SEO: Playbook Index (16 playbooks)
+
+Every playbook follows the same structure: TL;DR → framework → checklist → data points → mistakes → principles.
+
+- [Local SEO in Bangladesh: Practical Notes](articles/bangladesh-local-seo.md)
+- [Franchise SEO: Local and National Growth Strategies for Franchises](articles/franchise-seo.md)
+- [Google Business Profile Not Showing on Maps? A Troubleshooting Checklist](articles/gbp-listing-not-showing.md)
+- [Google Maps SEO: 5 Proven Strategies to Rank Higher](articles/google-maps-seo.md)
+- [How to Optimize Your Google Business Profile in 30 Minutes](articles/google-my-business.md)
+- [How to Build Local Citations (Complete Guide)](articles/local-citations.md)
+- [How to Do Local Keyword Research](articles/local-keyword-research.md)
+- [9 Easy Local Link Building Tactics](articles/local-link-building.md)
+- [Local SEO Solutions: 8 Tips to Boost Local Rankings](articles/local-seo-solutions.md)
+- [Location Landing Pages: 6 Crucial Elements Of Local Visibility](articles/location-pages.md)
+- [Multi-Location and Franchise Local SEO Operations (10–1,000 Locations)](articles/multi-location-operations.md)
+- [Real Estate SEO: 6 Things You Can Do to Compete With Big Sites](articles/real-estate-seo.md)
+- [5 Restaurant SEO Tips Backed by Diners & Data](articles/restaurant-seo.md)
+- [A Simple SEO Guide for Successful Event Marketing](articles/seo-for-events.md)
+- [SEO for Personal Injury Lawyers: 7 Strategies to Lower Cost-Per-Lead](articles/seo-for-personal-injury-lawyers.md)
+- [The Tabloid Technique: How to Easily Land Local Links With Digital PR](articles/tabloid-technique.md)
